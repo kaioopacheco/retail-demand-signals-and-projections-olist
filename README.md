@@ -20,7 +20,7 @@ Public e-commerce dataset containing historical order information from Olist, in
 - Interpreted results with a focus on retail demand monitoring and planning
 
 ## Dashboard
-[![Tableau Dashboard Preview](images/dashboard_preview.png)]([TABLEAU_DASHBOARD_LINK](https://public.tableau.com/views/OlistRegionalOrderDemandandProjection/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[![Tableau Dashboard Preview](images/dashboard_preview.png)](https://public.tableau.com/views/OlistRegionalOrderDemandandProjection/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The dashboard explores demand behavior and projections across Brazilian regions served by Olist. It highlights regional differences in demand patterns, seasonal effects, and projected demand trends, complementing the analytical findings with a geographic perspective.
 
