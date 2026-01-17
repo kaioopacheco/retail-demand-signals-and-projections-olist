@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes retail demand patterns using historical data from Olist, a Brazilian e-commerce intermediary that connects sellers to major online marketplaces. The objective is to identify demand signals and project future demand behavior, supporting planning and decision making through data driven insights.
 
+[Project Page (business oriented view)](https://www.kaiopacheco.com/olistretaildemandsignalsandprojections)
+
 ## Business Problem
 Olist operates as an intermediary between sellers and large online marketplaces, aggregating order and demand information across multiple regions. Understanding demand signals within this context is essential for anticipating demand fluctuations, identifying regional patterns, and supporting planning activities. This analysis focuses on extracting demand patterns and producing demand projections based on historical order behavior from the Olist platform.
 
