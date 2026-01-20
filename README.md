@@ -9,7 +9,6 @@ This project analyzes retail demand patterns using historical data from Olist, a
 Olist operates as an intermediary between sellers and large online marketplaces, aggregating order and demand information across multiple regions. Understanding demand signals within this context is essential for anticipating demand fluctuations, identifying regional patterns, and supporting planning activities. This analysis focuses on extracting demand patterns and producing demand projections based on historical order behavior from the Olist platform.
 
 ## Key Metrics (KPIs)
-
 - **Orders Volume (primary KPI):** total number of orders  
 - **Orders Growth Rate:** relative change in order volume over time  
 - **Projected Orders Volume:** forecasted order volume based on historical data  
